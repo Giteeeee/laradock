@@ -1,4 +1,4 @@
-# Laradock
+# Laradock1
 
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://zalt.me)
 
