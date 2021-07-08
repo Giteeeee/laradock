@@ -8,7 +8,7 @@ Laradock 能够帮你在 **Docker** 上快速搭建 **Laravel** 应用。
 
 就像 Laravel Homestead 一样，但是 Docker 替换了 Vagrant。
 
-> 先在使用 Laradock，然后再学习它们。
+> 先在使用 Laradock，然后再学习它们1。
 
 ## 目录
 - [Intro](#Intro)
